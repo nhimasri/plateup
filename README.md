@@ -9,9 +9,3 @@ Welcome to **PlateUp!**, a tool or utility designed to enhance your experience w
 - 🔧 Automation helpers
 - ✅ Easy-to-use interface
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/plateup-helper.git
-   cd plateup-helper

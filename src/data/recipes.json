@@ -1,0 +1,385 @@
+
+[
+  {
+    "id": 1,
+    "name": "Classic Tomato Pasta",
+    "description": "A quick and delicious pasta made with fresh tomatoes and herbs.",
+    "image": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1008&q=80",
+    "ingredients": [
+      { "item": "Pasta", "quantity": 2, "unit": "cups", "category": "Grains" },
+      { "item": "Tomato", "quantity": 2, "unit": "pieces", "category": "Vegetables" },
+      { "item": "Garlic", "quantity": 2, "unit": "cloves", "category": "Vegetables" },
+      { "item": "Olive Oil", "quantity": 2, "unit": "tablespoons", "category": "Others" },
+      { "item": "Salt", "quantity": 1, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Black Pepper", "quantity": 0.5, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Basil", "quantity": 4, "unit": "leaves", "category": "Spices" }
+    ],
+    "steps": [
+      { "instruction": "Boil water with a pinch of salt and cook pasta according to package instructions.", "timer": 600 },
+      { "instruction": "Meanwhile, dice tomatoes and mince garlic.", "timer": 0 },
+      { "instruction": "Heat olive oil in a pan over medium heat and add the garlic.", "timer": 60 },
+      { "instruction": "Add diced tomatoes, salt, and pepper. Cook until tomatoes break down.", "timer": 300 },
+      { "instruction": "Drain pasta and mix with the tomato sauce.", "timer": 0 },
+      { "instruction": "Tear basil leaves and sprinkle on top before serving.", "timer": 0 }
+    ],
+    "seasonal": ["spring", "summer", "fall"]
+  },
+  {
+    "id": 2,
+    "name": "Vegetable Stir Fry",
+    "description": "A healthy and colorful vegetable stir fry that's ready in minutes.",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Broccoli", "quantity": 1, "unit": "cup", "category": "Vegetables" },
+      { "item": "Carrot", "quantity": 1, "unit": "medium", "category": "Vegetables" },
+      { "item": "Bell Pepper", "quantity": 1, "unit": "piece", "category": "Vegetables" },
+      { "item": "Onion", "quantity": 0.5, "unit": "medium", "category": "Vegetables" },
+      { "item": "Garlic", "quantity": 2, "unit": "cloves", "category": "Vegetables" },
+      { "item": "Ginger", "quantity": 1, "unit": "tablespoon", "category": "Spices" },
+      { "item": "Soy Sauce", "quantity": 2, "unit": "tablespoons", "category": "Others" },
+      { "item": "Vegetable Oil", "quantity": 1, "unit": "tablespoon", "category": "Others" },
+      { "item": "Rice", "quantity": 1, "unit": "cup", "category": "Grains" }
+    ],
+    "steps": [
+      { "instruction": "Wash and chop all vegetables into bite-sized pieces.", "timer": 0 },
+      { "instruction": "Mince garlic and ginger.", "timer": 0 },
+      { "instruction": "Cook rice according to package instructions.", "timer": 900 },
+      { "instruction": "Heat oil in a wok or large pan over high heat.", "timer": 60 },
+      { "instruction": "Add garlic and ginger, stir for 30 seconds until fragrant.", "timer": 30 },
+      { "instruction": "Add harder vegetables first (carrots, broccoli) and stir fry for 2 minutes.", "timer": 120 },
+      { "instruction": "Add remaining vegetables and continue to stir fry until tender-crisp.", "timer": 180 },
+      { "instruction": "Add soy sauce and toss to combine.", "timer": 0 },
+      { "instruction": "Serve hot over cooked rice.", "timer": 0 }
+    ],
+    "seasonal": ["spring", "summer", "fall", "winter"]
+  },
+  {
+    "id": 3,
+    "name": "Simple Fruit Smoothie",
+    "description": "A refreshing fruit smoothie perfect for breakfast or a quick snack.",
+    "image": "https://images.unsplash.com/photo-1589733955941-5eeaf752f6dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1073&q=80",
+    "ingredients": [
+      { "item": "Banana", "quantity": 1, "unit": "medium", "category": "Fruits" },
+      { "item": "Strawberries", "quantity": 0.5, "unit": "cup", "category": "Fruits" },
+      { "item": "Milk", "quantity": 1, "unit": "cup", "category": "Dairy" },
+      { "item": "Yogurt", "quantity": 0.5, "unit": "cup", "category": "Dairy" },
+      { "item": "Honey", "quantity": 1, "unit": "tablespoon", "category": "Others" },
+      { "item": "Ice Cubes", "quantity": 4, "unit": "pieces", "category": "Others" }
+    ],
+    "steps": [
+      { "instruction": "Peel and slice the banana.", "timer": 0 },
+      { "instruction": "Wash and hull the strawberries.", "timer": 0 },
+      { "instruction": "Place all ingredients in a blender.", "timer": 0 },
+      { "instruction": "Blend until smooth and creamy.", "timer": 60 },
+      { "instruction": "Pour into glasses and serve immediately.", "timer": 0 }
+    ],
+    "seasonal": ["spring", "summer"]
+  },
+  {
+    "id": 4,
+    "name": "Omelette with Vegetables",
+    "description": "A fluffy omelette packed with colorful vegetables - perfect for breakfast or brunch.",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+    "ingredients": [
+      { "item": "Eggs", "quantity": 3, "unit": "pieces", "category": "Dairy" },
+      { "item": "Bell Pepper", "quantity": 0.5, "unit": "medium", "category": "Vegetables" },
+      { "item": "Onion", "quantity": 0.25, "unit": "medium", "category": "Vegetables" },
+      { "item": "Tomato", "quantity": 0.5, "unit": "medium", "category": "Vegetables" },
+      { "item": "Cheese", "quantity": 0.25, "unit": "cup", "category": "Dairy" },
+      { "item": "Salt", "quantity": 0.25, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Black Pepper", "quantity": 0.125, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Butter", "quantity": 1, "unit": "tablespoon", "category": "Dairy" }
+    ],
+    "steps": [
+      { "instruction": "Dice bell pepper, onion, and tomato into small pieces.", "timer": 0 },
+      { "instruction": "Beat eggs in a bowl with salt and pepper.", "timer": 0 },
+      { "instruction": "Melt butter in a non-stick pan over medium heat.", "timer": 60, "appliance": "Stove", "applianceSettings": "Medium", "temperature": 350 },
+      { "instruction": "Add diced vegetables to the pan and sauté until softened.", "timer": 180 },
+      { "instruction": "Pour beaten eggs over the vegetables and tilt the pan to spread evenly.", "timer": 0 },
+      { "instruction": "Cook until the edges start to set, then sprinkle cheese on top.", "timer": 120 },
+      { "instruction": "When the omelette is almost set but still slightly runny on top, fold it in half.", "timer": 0 },
+      { "instruction": "Cook for another minute, then slide onto a plate and serve.", "timer": 60 }
+    ],
+    "seasonal": ["spring", "summer", "fall", "winter"]
+  },
+  {
+    "id": 5,
+    "name": "Avocado Toast",
+    "description": "A simple yet delicious toast topped with creamy avocado - the perfect quick meal.",
+    "image": "https://images.unsplash.com/photo-1588137378193-f5f31d0e8f3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+    "ingredients": [
+      { "item": "Bread", "quantity": 2, "unit": "slices", "category": "Grains" },
+      { "item": "Avocado", "quantity": 1, "unit": "medium", "category": "Vegetables" },
+      { "item": "Salt", "quantity": 0.25, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Black Pepper", "quantity": 0.125, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Lemon Juice", "quantity": 1, "unit": "teaspoon", "category": "Others" },
+      { "item": "Red Pepper Flakes", "quantity": 0.25, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Olive Oil", "quantity": 1, "unit": "teaspoon", "category": "Others" }
+    ],
+    "steps": [
+      { "instruction": "Toast bread slices until golden brown.", "timer": 180, "appliance": "Toaster", "applianceSettings": "Medium" },
+      { "instruction": "Cut avocado in half, remove the pit, and scoop the flesh into a bowl.", "timer": 0 },
+      { "instruction": "Mash avocado with a fork and add salt, pepper, and lemon juice.", "timer": 0 },
+      { "instruction": "Spread the avocado mixture evenly over the toast.", "timer": 0 },
+      { "instruction": "Drizzle with olive oil and sprinkle with red pepper flakes.", "timer": 0 },
+      { "instruction": "Serve immediately.", "timer": 0 }
+    ],
+    "seasonal": ["spring", "summer", "fall"]
+  },
+  {
+    "id": 6,
+    "name": "Spanish Tortilla",
+    "description": "A classic Spanish omelette made with potatoes and onions - perfect for any time of day.",
+    "image": "https://images.unsplash.com/photo-1607103058027-4c5fa4296db1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Eggs", "quantity": 6, "unit": "pieces", "category": "Dairy" },
+      { "item": "Potato", "quantity": 3, "unit": "medium", "category": "Vegetables" },
+      { "item": "Onion", "quantity": 1, "unit": "medium", "category": "Vegetables" },
+      { "item": "Olive Oil", "quantity": 4, "unit": "tablespoons", "category": "Others" },
+      { "item": "Salt", "quantity": 1, "unit": "teaspoon", "category": "Spices" }
+    ],
+    "steps": [
+      { "instruction": "Peel and thinly slice potatoes and onions.", "timer": 0 },
+      { "instruction": "Heat olive oil in a large pan and cook potato and onion until tender.", "timer": 900, "appliance": "Stove", "applianceSettings": "Medium-Low", "temperature": 325 },
+      { "instruction": "Beat eggs with salt in a large bowl.", "timer": 0 },
+      { "instruction": "Mix cooked potatoes and onions with beaten eggs.", "timer": 0 },
+      { "instruction": "Cook in pan until bottom is set, then flip and cook other side.", "timer": 300, "appliance": "Stove", "applianceSettings": "Medium", "temperature": 350 }
+    ],
+    "seasonal": ["spring", "fall", "winter"]
+  },
+  {
+    "id": 7,
+    "name": "Basic Fried Rice",
+    "description": "A versatile Asian dish that's perfect for using leftover rice and vegetables.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Rice", "quantity": 2, "unit": "cups", "category": "Grains" },
+      { "item": "Carrot", "quantity": 1, "unit": "medium", "category": "Vegetables" },
+      { "item": "Onion", "quantity": 1, "unit": "small", "category": "Vegetables" },
+      { "item": "Eggs", "quantity": 2, "unit": "pieces", "category": "Dairy" },
+      { "item": "Soy Sauce", "quantity": 2, "unit": "tablespoons", "category": "Others" },
+      { "item": "Vegetable Oil", "quantity": 2, "unit": "tablespoons", "category": "Others" }
+    ],
+    "steps": [
+      { "instruction": "Heat oil in a wok or large pan.", "timer": 60, "appliance": "Stove", "applianceSettings": "High", "temperature": 400 },
+      { "instruction": "Scramble eggs and set aside.", "timer": 120 },
+      { "instruction": "Stir-fry diced carrots and onions until tender.", "timer": 180 },
+      { "instruction": "Add rice and soy sauce, stir-fry until heated through.", "timer": 300 },
+      { "instruction": "Mix in scrambled eggs and serve hot.", "timer": 0 }
+    ],
+    "seasonal": ["fall", "winter"]
+  },
+  {
+    "id": 8,
+    "name": "Greek Salad",
+    "description": "A refreshing Mediterranean salad with crisp vegetables and simple dressing.",
+    "image": "https://images.unsplash.com/photo-1522664141-cd2e80ff427b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Cucumber", "quantity": 1, "unit": "medium", "category": "Vegetables" },
+      { "item": "Tomato", "quantity": 2, "unit": "medium", "category": "Vegetables" },
+      { "item": "Onion", "quantity": 0.5, "unit": "medium", "category": "Vegetables" },
+      { "item": "Olive Oil", "quantity": 3, "unit": "tablespoons", "category": "Others" },
+      { "item": "Lemon Juice", "quantity": 1, "unit": "tablespoon", "category": "Others" },
+      { "item": "Salt", "quantity": 0.5, "unit": "teaspoon", "category": "Spices" }
+    ],
+    "steps": [
+      { "instruction": "Chop cucumber and tomatoes into bite-sized pieces.", "timer": 0 },
+      { "instruction": "Slice onion thinly.", "timer": 0 },
+      { "instruction": "Mix olive oil, lemon juice, and salt for dressing.", "timer": 0 },
+      { "instruction": "Combine vegetables and pour dressing over.", "timer": 0 },
+      { "instruction": "Toss well and serve immediately.", "timer": 0 }
+    ],
+    "seasonal": ["spring", "summer"]
+  },
+  {
+    "id": 9,
+    "name": "Simple Dal",
+    "description": "A comforting Indian lentil soup that's both nutritious and easy to make.",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Yellow Lentils", "quantity": 1, "unit": "cup", "category": "Grains" },
+      { "item": "Rice", "quantity": 1, "unit": "cup", "category": "Grains" },
+      { "item": "Onion", "quantity": 1, "unit": "medium", "category": "Vegetables" },
+      { "item": "Garlic", "quantity": 3, "unit": "cloves", "category": "Vegetables" },
+      { "item": "Cumin", "quantity": 1, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Turmeric", "quantity": 0.5, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Salt", "quantity": 1, "unit": "teaspoon", "category": "Spices" }
+    ],
+    "steps": [
+      { "instruction": "Cook rice according to package instructions.", "timer": 1200, "appliance": "Rice Cooker", "applianceSettings": "Cook" },
+      { "instruction": "Sauté diced onion and garlic until golden.", "timer": 300, "appliance": "Stove", "applianceSettings": "Medium", "temperature": 350 },
+      { "instruction": "Add cumin and turmeric, cook until fragrant.", "timer": 60 },
+      { "instruction": "Add lentils and water, simmer until soft.", "timer": 1200, "appliance": "Stove", "applianceSettings": "Low", "temperature": 212 },
+      { "instruction": "Season with salt and serve with rice.", "timer": 0 }
+    ],
+    "seasonal": ["fall", "winter", "rainy"]
+  },
+  {
+    "id": 10,
+    "name": "Basic Pancakes",
+    "description": "Fluffy breakfast pancakes that everyone loves.",
+    "image": "https://images.unsplash.com/photo-1554520735-0a6b8b6ce8b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Flour", "quantity": 1.5, "unit": "cups", "category": "Grains" },
+      { "item": "Milk", "quantity": 1, "unit": "cup", "category": "Dairy" },
+      { "item": "Eggs", "quantity": 1, "unit": "piece", "category": "Dairy" },
+      { "item": "Sugar", "quantity": 2, "unit": "tablespoons", "category": "Others" },
+      { "item": "Butter", "quantity": 2, "unit": "tablespoons", "category": "Dairy" }
+    ],
+    "steps": [
+      { "instruction": "Mix flour and sugar in a bowl.", "timer": 0 },
+      { "instruction": "Whisk in milk and egg until smooth.", "timer": 0 },
+      { "instruction": "Heat pan and melt a little butter.", "timer": 120, "appliance": "Stove", "applianceSettings": "Medium", "temperature": 350 },
+      { "instruction": "Pour batter and cook until bubbles form.", "timer": 120 },
+      { "instruction": "Flip and cook other side until golden.", "timer": 60 }
+    ],
+    "seasonal": ["spring", "fall", "winter"]
+  },
+  {
+    "id": 11,
+    "name": "Thai Coconut Curry",
+    "description": "A creamy and aromatic Thai curry with vegetables",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Rice", "quantity": 1, "unit": "cup", "category": "Grains" },
+      { "item": "Chicken", "quantity": 1.5, "unit": "cups", "category": "Meats" },
+      { "item": "Bell Pepper", "quantity": 1, "unit": "piece", "category": "Vegetables" },
+      { "item": "Coconut Milk", "quantity": 1, "unit": "cup", "category": "Others" },
+      { "item": "Garlic", "quantity": 2, "unit": "cloves", "category": "Vegetables" },
+      { "item": "Ginger", "quantity": 1, "unit": "tablespoon", "category": "Spices" },
+      { "item": "Turmeric", "quantity": 1, "unit": "teaspoon", "category": "Spices" }
+    ],
+    "steps": [
+      { "instruction": "Cook rice according to package instructions", "timer": 1200, "appliance": "Rice Cooker", "applianceSettings": "Cook" },
+      { "instruction": "Cut chicken into bite-sized pieces", "timer": 0 },
+      { "instruction": "Sauté garlic and ginger until fragrant", "timer": 120, "appliance": "Stove", "applianceSettings": "Medium", "temperature": 350 },
+      { "instruction": "Add chicken and cook until golden", "timer": 600 },
+      { "instruction": "Add coconut milk and spices, simmer", "timer": 900, "appliance": "Stove", "applianceSettings": "Low", "temperature": 300 }
+    ],
+    "seasonal": ["fall", "winter", "rainy"]
+  },
+  {
+    "id": 12,
+    "name": "Greek Chicken Souvlaki",
+    "description": "Grilled chicken skewers with Mediterranean herbs",
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      { "item": "Chicken", "quantity": 2, "unit": "cups", "category": "Meats" },
+      { "item": "Yogurt", "quantity": 1, "unit": "cup", "category": "Dairy" },
+      { "item": "Lemon Juice", "quantity": 2, "unit": "tablespoons", "category": "Others" },
+      { "item": "Garlic", "quantity": 3, "unit": "cloves", "category": "Vegetables" },
+      { "item": "Oregano", "quantity": 1, "unit": "tablespoon", "category": "Spices" }
+    ],
+    "steps": [
+      { "instruction": "Marinate chicken with yogurt and spices", "timer": 3600 },
+      { "instruction": "Thread onto skewers", "timer": 0 },
+      { "instruction": "Grill until cooked through", "timer": 900, "appliance": "Grill", "applianceSettings": "Medium-High", "temperature": 400 }
+    ],
+    "seasonal": ["spring", "summer"]
+  },
+  {
+    "id": 13,
+    "name": "Butter Chicken",
+    "description": "A rich and creamy Indian dish with tender chicken pieces in a tomato-based sauce.",
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "prepTime": 30,
+    "cookTime": 40,
+    "totalTime": 70,
+    "servings": 4,
+    "seasonal": ["fall", "winter", "rainy"],
+    "ingredients": [
+      { "item": "Chicken", "quantity": 1.5, "unit": "pounds", "category": "Meats" },
+      { "item": "Yogurt", "quantity": 0.5, "unit": "cup", "category": "Dairy" },
+      { "item": "Butter", "quantity": 4, "unit": "tablespoons", "category": "Dairy" },
+      { "item": "Onion", "quantity": 1, "unit": "large", "category": "Vegetables" },
+      { "item": "Garlic", "quantity": 3, "unit": "cloves", "category": "Vegetables" },
+      { "item": "Ginger", "quantity": 2, "unit": "tablespoons", "category": "Spices" },
+      { "item": "Garam Masala", "quantity": 2, "unit": "teaspoons", "category": "Spices" },
+      { "item": "Turmeric", "quantity": 1, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Cumin", "quantity": 1, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Tomato Sauce", "quantity": 2, "unit": "cups", "category": "Others" },
+      { "item": "Heavy Cream", "quantity": 0.5, "unit": "cup", "category": "Dairy" },
+      { "item": "Rice", "quantity": 2, "unit": "cups", "category": "Grains" }
+    ],
+    "steps": [
+      { "instruction": "Marinate chicken in yogurt, garam masala, turmeric, and cumin for at least 1 hour.", "timer": 3600 },
+      { "instruction": "Start cooking rice according to package instructions.", "timer": 1200, "appliance": "Rice Cooker", "applianceSettings": "Cook" },
+      { "instruction": "Melt butter in a large skillet over medium heat.", "timer": 60, "appliance": "Stove", "applianceSettings": "Medium", "temperature": 350 },
+      { "instruction": "Add diced onions and cook until translucent.", "timer": 300 },
+      { "instruction": "Add minced garlic and ginger, cook until fragrant.", "timer": 120 },
+      { "instruction": "Add marinated chicken and cook until browned.", "timer": 600, "appliance": "Stove", "applianceSettings": "Medium-High", "temperature": 375 },
+      { "instruction": "Pour in tomato sauce, bring to a simmer, and cook until chicken is done.", "timer": 900, "appliance": "Stove", "applianceSettings": "Medium-Low", "temperature": 325 },
+      { "instruction": "Stir in heavy cream and cook for 5 more minutes.", "timer": 300 },
+      { "instruction": "Serve hot with rice.", "timer": 0 }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Palak Paneer",
+    "description": "A vegetarian Indian dish with spinach (palak) and cottage cheese (paneer).",
+    "image": "public/lovable-uploads/150fd99a-3d11-4a78-85b6-2d8650b7aebb.png",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "servings": 4,
+    "seasonal": ["spring", "winter", "rainy"],
+    "ingredients": [
+      { "item": "Paneer", "quantity": 250, "unit": "grams", "category": "Dairy" },
+      { "item": "Spinach", "quantity": 500, "unit": "grams", "category": "Vegetables" },
+      { "item": "Onion", "quantity": 1, "unit": "medium", "category": "Vegetables" },
+      { "item": "Tomato", "quantity": 2, "unit": "medium", "category": "Vegetables" },
+      { "item": "Garlic", "quantity": 4, "unit": "cloves", "category": "Vegetables" },
+      { "item": "Ginger", "quantity": 1, "unit": "inch", "category": "Spices" },
+      { "item": "Cumin Seeds", "quantity": 1, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Garam Masala", "quantity": 1, "unit": "teaspoon", "category": "Spices" },
+      { "item": "Heavy Cream", "quantity": 2, "unit": "tablespoons", "category": "Dairy" },
+      { "item": "Vegetable Oil", "quantity": 2, "unit": "tablespoons", "category": "Others" }
+    ],
+    "steps": [
+      { "instruction": "Wash and blanch spinach in boiling water for 3 minutes.", "timer": 180, "appliance": "Stove", "applianceSettings": "High", "temperature": 212 },
+      { "instruction": "Drain and blend spinach into a smooth puree.", "timer": 60 },
+      { "instruction": "Cut paneer into cubes. Heat oil in a pan and lightly fry paneer until golden.", "timer": 300, "appliance": "Stove", "applianceSettings": "Medium-High", "temperature": 375 },
+      { "instruction": "In the same pan, add cumin seeds and let them splutter.", "timer": 30 },
+      { "instruction": "Add chopped onions, garlic, and ginger. Sauté until golden brown.", "timer": 300 },
+      { "instruction": "Add chopped tomatoes and cook until soft.", "timer": 240 },
+      { "instruction": "Add spinach puree and spices. Simmer for 10 minutes.", "timer": 600, "appliance": "Stove", "applianceSettings": "Low", "temperature": 250 },
+      { "instruction": "Add fried paneer cubes and cream. Cook for another 5 minutes.", "timer": 300 },
+      { "instruction": "Serve hot with rice or naan bread.", "timer": 0 }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Naan Bread",
+    "description": "Traditional Indian flatbread perfect for scooping up curry.",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "prepTime": 90,
+    "cookTime": 15,
+    "totalTime": 105,
+    "servings": 6,
+    "seasonal": ["spring", "fall", "winter", "rainy"],
+    "ingredients": [
+      { "item": "All-Purpose Flour", "quantity": 2.5, "unit": "cups", "category": "Grains" },
+      { "item": "Active Dry Yeast", "quantity": 1, "unit": "teaspoon", "category": "Others" },
+      { "item": "Sugar", "quantity": 1, "unit": "teaspoon", "category": "Others" },
+      { "item": "Water", "quantity": 0.5, "unit": "cup", "category": "Others" },
+      { "item": "Yogurt", "quantity": 0.25, "unit": "cup", "category": "Dairy" },
+      { "item": "Butter", "quantity": 2, "unit": "tablespoons", "category": "Dairy" },
+      { "item": "Garlic", "quantity": 2, "unit": "cloves", "category": "Vegetables" }
+    ],
+    "steps": [
+      { "instruction": "Mix yeast, sugar, and warm water. Let stand until foamy.", "timer": 600 },
+      { "instruction": "Combine flour, salt, and yeast mixture. Add yogurt and knead into a soft dough.", "timer": 300 },
+      { "instruction": "Cover and let rise in a warm place until doubled in size.", "timer": 3600 },
+      { "instruction": "Divide dough into 6 balls and roll each into a teardrop shape.", "timer": 300 },
+      { "instruction": "Heat a cast-iron skillet over high heat. Cook each naan until bubbles form and bottom is golden.", "timer": 120, "appliance": "Stove", "applianceSettings": "High", "temperature": 450 },
+      { "instruction": "Flip and cook the other side until golden spots appear.", "timer": 60 },
+      { "instruction": "Brush with garlic butter while hot.", "timer": 0 }
+    ]
+  }
+]
